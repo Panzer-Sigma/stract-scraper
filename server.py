@@ -6,7 +6,7 @@ import json
 
 EXTERNAL_API_URL = 'https://sidebar.stract.to/api'
 headers = {
-    'Authorization': f'Bearer SelecaoStract2026',
+    'Authorization': f'Bearer ', #Não esqueça de adicionar o bearer token que me foi fornecido aqui!
     'Content-Type': 'application/json'
 }
 
